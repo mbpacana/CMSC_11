@@ -1,0 +1,9 @@
+Console based game.
+
+This is a three player guessing game. The goal of the game is for each of the player to guess correctyl the sum 
+of the two die are being rolled.  
+
+Each player start off with 2000 pesos. 
+Each player would bet an amount for every guess.
+The game ends when only one player remains.
+Or when the other two players have quit.
